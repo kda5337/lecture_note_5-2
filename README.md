@@ -52,4 +52,33 @@ While the group owner only have permission to read and execute, not write.
 Finally, all other users can read and execute the files, not write.  
 
 
+**6. Changing Permissions**  
+Command 'chomd' == change permission  
 
+change number under the value to binary number.  
+The first number is for owner, second for group, and third for other users.  
+1 == give permission and 0 == no permission  
+For more information, check the pictrue below  
+![chmod picture 1](https://github.com/kda5337/lecture_note_5-2/assets/144139251/6e3ea4b4-bf19-45fb-bd19-d6340d2281a1)  
+
+
+**7. Superuser**  
+One who has all system administation authority  
+Put "sudo" before the command if you are superuser.
+After you enter the command, there will be code for you to enter password.  
+Lastly, type 'exit' to get out of a superuser session.  
+
+**8. Text Editors**  
+![text editors picture](https://github.com/kda5337/lecture_note_5-2/assets/144139251/be37f2c7-64ce-427b-8538-34378750ec65)  
+
+
+**9. Extra**  
+You can more easily use Linux by organized script.  
+command 'history' == see previous command history, save it to a text file.  
+
+---
+
+**All of contents and pictures used on this markdown refers to Gachon University educational document**  
+**If you want to know more about reference. please contact me**
+
+**THANK YOU FOR READING THIS DOCUMENT**
